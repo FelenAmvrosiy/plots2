@@ -19,3 +19,5 @@ Learn more about contributing to Public Lab code projects on these pages:
 ## Bug reports & troubleshooting
 
 If you are submitting a bug, please go to https://github.com/publiclab/plots2/issues/new
+
+Signed by FelenAmvrosiy
